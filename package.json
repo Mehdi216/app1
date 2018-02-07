@@ -1,0 +1,15 @@
+{
+  "name": "app404",
+  "version": "0.0.1",
+  "description": "2nd app",
+  "main": "server.js",
+  "scripts": {
+    "test": "server.js",
+    "start": "node server.js"
+  },
+  "author": "Mehdi",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
